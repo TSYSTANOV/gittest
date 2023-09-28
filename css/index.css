@@ -1,2 +1,7 @@
 body
-{background-color:gold;}
+{background-color:gold;
+font-size:30px;
+font-weight:900;
+line-height:50px;
+text-transform: capitalize;
+}
