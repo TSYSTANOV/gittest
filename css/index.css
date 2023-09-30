@@ -6,4 +6,5 @@ line-height:50px;
 text-transform: capitalize;
 color:red;
 border-radius: 50%;
+box-sizing: border-box;
 }
