@@ -7,3 +7,6 @@ text-transform: capitalize;
 color:red;
 border-radius: 50%;
 }
+h2
+{color:blue;
+background-color: red;}
